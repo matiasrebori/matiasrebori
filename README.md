@@ -5,13 +5,13 @@
 <br>
 
 <p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=matiasrebori&count_private=true&show_icons=true&theme=onedark">
+  <img  src = "https://github-profile-trophy.vercel.app/?username=matiasrebori&rank=-C&no-frame=true&theme=monokai">
 </p>
 
 <p align = "center">
-  <img src = "https://streak-stats.demolab.com?user=matiasrebori&theme=onedark">
+  <img  src = "https://github-readme-stats.vercel.app/api?username=matiasrebori&count_private=true&show_icons=true&theme=monokai">
 </p>
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=matiasrebori&layout=compact&theme=onedark">
+  <img src = "https://streak-stats.demolab.com?user=matiasrebori&theme=monokai">
 </p>
